@@ -1,0 +1,2 @@
+using default non-asio audio device
+Headphones (TP 18 Stereo) maps to 1
